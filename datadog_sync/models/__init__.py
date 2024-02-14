@@ -28,6 +28,8 @@ from datadog_sync.model.logs_restriction_queries import LogsRestrictionQueries
 from datadog_sync.model.spans_metrics import SpansMetrics
 from datadog_sync.model.logs_facets import LogsFacets
 from datadog_sync.model.logs_views import LogsViews
+from datadog_sync.model.trace_facets import TraceFacets
+from datadog_sync.model.trace_views import TraceViews
 from datadog_sync.model.incidents import Incidents
 from datadog_sync.model.incidents_integrations import IncidentsIntegrations
 from datadog_sync.model.incidents_todos import IncidentsTodos
